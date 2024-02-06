@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQEaR91s1VH4zQ/profile-displayphoto-shrink_400_400/0/1707248089701?e=1712793600&v=beta&t=iWShg3dR5AJSeLAjl7K0ngFVmrfC_y0yz71Nwn9rRyI"  />
-</div>
+
 <h2 align="left">Hi 👋! My name is Aden John and I'm a Web developer, from India</h2>
 
 ###
